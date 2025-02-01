@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Ganoza Chavez</h1>
-<h3 align="center">A wannabe data scientist and a machine learning developer with interests in data analysis and Cloud Computing.</h3>
+<h3 align="center">An aspiring data scientist and a machine learning developer with interests in data analysis and Cloud Computing.</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning models**
 
