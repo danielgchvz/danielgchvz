@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis/Machine Learning/Cloud Computing/Data science projects**
 
-- 📫 How to reach me **dgchvz263@gmail.com**
+- 📫 How to reach me **danielgchv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
